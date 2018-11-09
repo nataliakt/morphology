@@ -45,6 +45,12 @@
             <artifactId>opencv</artifactId>
             <version>3.4.2-0</version>
         </dependency>
+
+        <dependency>
+            <groupId>br.nataliakt</groupId>
+            <artifactId>image-dashboard</artifactId>
+            <version>1.0.1</version>
+        </dependency>
     </dependencies>
 
 </project>
